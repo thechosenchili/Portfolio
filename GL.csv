@@ -1,0 +1,37 @@
+﻿id,GL_L1,GL_L2,GL_L3,FS_id
+10100,Cash,Current Assets,Assets,2
+12100,Accounts Receivable,Current Assets,Assets,2
+12500,Allowance for Doubtful Accounts,Current Assets,Assets,2
+13100,Inventory,Current Assets,Assets,2
+15300,Prepaid Insurance,Current Assets,Assets,2
+17000,Land,"Property, Plant, and Equipment",Assets,2
+17100,Buildings,"Property, Plant, and Equipment",Assets,2
+17300,Equipment,"Property, Plant, and Equipment",Assets,2
+17800,Vehicles,"Property, Plant, and Equipment",Assets,2
+18100,Accumulated Depreciation – Buildings,"Property, Plant, and Equipment",Assets,2
+18300,Accumulated Depreciation – Equipment,"Property, Plant, and Equipment",Assets,2
+18800,Accumulated Depreciation – Vehicles,"Property, Plant, and Equipment",Assets,2
+20100, Notes Payable,Current Liabilities,Liabilities,2
+21000, Accounts Payable,Current Liabilities,Liabilities,2
+22100, Wages Payable,Current Liabilities,Liabilities,2
+23100, Interest Payable,Current Liabilities,Liabilities,2
+24500,Unearned Revenues,Current Liabilities,Liabilities,2
+25100, Mortgage Loan Payable,Long-term Liabilities,Liabilities,2
+25600, Bonds Payable,Long-term Liabilities,Liabilities,2
+27100," Common Stock, No Par",Stockholders’ Equity,Equity,2
+27500, Retained Earnings,Stockholders’ Equity,Equity,2
+31010," Sales – Division #1, Product Line 010",Operating Revenues,Revenue,1
+31022,"Sales – Division #1, Product Line 022",Operating Revenues,Revenue,1
+32015,"Sales – Division #2, Product Line 015",Operating Revenues,Revenue,1
+33110,"Sales – Division #3, Product Line 110",Operating Revenues,Revenue,1
+41010,"COGS – Division #1, Product Line 010",Cost of Goods Sold,Expense,1
+41022,"COGS – Division #1, Product Line 022",Cost of Goods Sold,Expense,1
+42015,"COGS – Division #2, Product Line 015",Cost of Goods Sold,Expense,1
+43110,"COGS – Division #3, Product Line 110",Cost of Goods Sold,Expense,1
+50100,Marketing Dept. Salaries,Marketing Expenses,Expense,1
+50150,Marketing Dept. Payroll Taxes,Marketing Expenses,Expense,1
+50200,Marketing Dept. Supplies,Marketing Expenses,Expense,1
+59100,Payroll Dept. Salaries,Payroll Dept. Expenses,Expense,1
+59150,Payroll Dept. Payroll Taxes,Payroll Dept. Expenses,Expense,1
+59200,Payroll Dept. Supplies,Payroll Dept. Expenses,Expense,1
+59600,Payroll Dept. Telephone,Payroll Dept. Expenses,Expense,1
